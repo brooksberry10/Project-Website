@@ -1,9 +1,20 @@
-
+//style.css//
 body {
   background-color: #0a1010;
   color:MintCream;
 }
 
+.leftt-column {
+position: fixed;
+top:0;
+left:0;
+width: 200px;
+height: 100vh;
+background-color: Snow;
+padding: 10px;
+overflow-y: auto;
+
+}
 
 .right-column {
 position: fixed;
@@ -13,13 +24,13 @@ width: 200px;
 height: 100vh;
 background-color: Snow;
 padding: 10px;
-overfloy-y: auto;
+overflow-y: auto;
 
 }
 
 .main-content{
-margin-left: 200px;
-margin-right:200px;
+margin-left: 210px;
+margin-right:210px;
 padding: 20px;
 }
 
