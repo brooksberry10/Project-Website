@@ -36,9 +36,9 @@ overflow-y: auto;
   }
   
   .main-content{
-  margin-left: 210px;
-  margin-right:210px;
-  padding: 20px;
+  margin-left: 0;
+  margin-right:0;
+  padding: 10px;
   }
 }
 
