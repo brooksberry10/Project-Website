@@ -30,9 +30,15 @@ overflow-y: auto;
 
 }
 
-.main-content{
-margin-left: 210px;
-margin-right:210px;
-padding: 20px;
+@media (max-width: 800px) {
+  .left-column, .right-column {
+    display:none;
+  }
+  
+  .main-content{
+  margin-left: 210px;
+  margin-right:210px;
+  padding: 20px;
+  }
 }
 
