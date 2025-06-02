@@ -1,2 +1,2 @@
 # Project-Website
-This website will serve as a portfolio for my projects
+This website will be used for blog posts for an Innovation Technologies class at FSU
