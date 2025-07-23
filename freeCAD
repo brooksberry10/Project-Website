@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name ="viewport" 
         content="width=device-width, initial-scale=1.0">
-  <title>TinkerCAD Blog Post</title>
+  <title>Fabrication for funcitonBlog Post</title>
   <link rel="stylesheet" href="style.css">
 </head>
 
@@ -22,6 +22,7 @@
 
   <div class="main-content">
 
+
     <h2>Projects and Blogs</h2>
     <p><a href="index.html">Home Page</a></p>
     <p> </p>
@@ -33,13 +34,8 @@
     
     <p></p>
     
-      <p></p>
-        <img src="" alt="Screenshot" width="250">
-        <hr>
-        <img src="" alt="Screenshot" width="250">
-        <hr>
-        <img src="" alt="Screenshot" width="250">
-        <hr>
+      <p>This blog test</p>
+
 
 
     <p></p>
